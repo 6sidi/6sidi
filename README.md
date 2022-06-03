@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @6sidi
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me sidi#7265
